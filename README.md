@@ -1,4 +1,6 @@
-Hello World! Myself Md. Tahmid Hossain and I hail from Bangladesh. I'm a programmer, developer, info-sec practitioner and digital marketer.
+# Hi, I'm Tahmid Hossain
+
+I'm a programmer, developer, info-sec practitioner and digital marketer and I hail from Bangladesh.
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=tahmid02016&show_icons=true&theme=merko)
 
