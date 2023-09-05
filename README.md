@@ -5,12 +5,12 @@ I'm a programmer, developer, info-sec practitioner and digital marketer and I ha
 ```javascript
 const TahmidHossain {
     fullName: "Md. Tahmid Hossain",
-    nameInNativeLang: "মো: তাহমিদ হোসেন",
+    nameInNativeLang: "মো. তাহমিদ হোসেন",
     gender: "Male",
     citizenship: "Bangladesh",
     birthplace: "Rajshahi, Bangladesh",
     nativeLang: "Bangla",
-    educatedAt: ["Shah Makhdum College, Rajshahi"],
+    educatedAt: ["University of Rajshahi"],
     religion: "Islam",
 }
 ```
